@@ -1,2 +1,2 @@
 # tamagolib
-TAMAGO55 Liblary
+TAMAGO55's Liblary
