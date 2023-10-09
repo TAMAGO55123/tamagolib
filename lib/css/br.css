@@ -1,0 +1,5 @@
+.br::before{
+    content: "\A";
+    white-space: pre;
+}
+/**/
